@@ -1,4 +1,4 @@
-# ecom_Django
+# Ecom
 ## An ecommerce platform with Python and Django
 This e-commerce web application was designed as a project for online gadgets purchasing. Administrators have a panel where they can manage everything related to the products. Also, users register on the website and can search for products, monitor the status of their orders, and order the products they like by adding them to their cart. Ordered products wait to be shipped from the admin panel. The development of the project was done using . DjangoFramework , HTML/CSS, JavaScript.
 
